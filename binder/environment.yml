@@ -6,3 +6,4 @@ dependencies:
 - flux-core
 - qe =7.2
 - pwtools =1.2.3
+- pyiron-data =0.0.29
