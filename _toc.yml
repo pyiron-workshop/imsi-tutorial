@@ -1,0 +1,7 @@
+format: jb-book
+root: README
+chapters:
+- file: 0-lammps.ipynb
+- file: 1-mapreduce.ipynb
+- file: 2-quantum-espresso.ipynb
+- file: 3-flux.ipynb
